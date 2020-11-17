@@ -1,0 +1,20 @@
+body {
+	font-weight: 600;
+	color: white;
+	background: rgb(76, 124, 76);
+}
+.success .error {
+	color: white;
+	padding: 5px;
+	margin: 5px 0 15px 0;
+}
+.success {
+	background: green;
+}
+.error {
+	background: red;
+}
+.btn {
+	color: white;
+	font-weight: 600;
+}
